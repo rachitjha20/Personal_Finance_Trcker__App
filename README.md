@@ -1,1 +1,1 @@
-# Personal_Finance_Trcker__App
+# Personal_Finance_Tracker__App
